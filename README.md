@@ -1,5 +1,6 @@
 # OPSEC-Hall-of-fame
 
+![](https://github.com/Offensive-Penetration-Security/OPSEC-Hall-of-fame/blob/main/logo/logo300.png)
 
 - Start of adding `2022`
 
