@@ -4,7 +4,7 @@
 
 - Start of adding `2022`
 
-[![](https://github.com/nu11secur1ty/CVE-mitre/blob/main/wall/NVD-small.png)](https://www.nist.gov/)
+[![](https://github.com/nu11secur1ty/CVE-mitre/blob/main/wall/NVD-small.png)](https://www.nist.gov/)![](https://github.com/Offensive-Penetration-Security/OPSEC-Hall-of-fame/blob/main/logo/cvelogobanner.png)
 
 | CVE  | CVSS Vector | Score |
 | ------------- | ------------- | ------------ |
