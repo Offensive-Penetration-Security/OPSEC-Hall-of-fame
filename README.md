@@ -1,4 +1,4 @@
-# OPSEC-Hall-of-fame
+# OPSEC-Hall-of-fame 😎
 
 ![](https://github.com/Offensive-Penetration-Security/OPSEC-Hall-of-fame/blob/main/logo/logo300.png)
 
