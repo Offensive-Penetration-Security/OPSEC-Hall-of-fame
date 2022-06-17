@@ -139,5 +139,6 @@
 |[CVE-2020-0642](https://nvd.nist.gov/vuln/detail/CVE-2020-0642) |  CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H | 7.8 HIGH |
 |[CVE-2019-13272](https://nvd.nist.gov/vuln/detail/CVE-2019-13272) |  CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H | 7.8 HIGH |
 |[CVE-2020-0022](https://nvd.nist.gov/vuln/detail/CVE-2020-0022) |  CVSS:3.1/AV:A/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H | 8.8 HIGH |
+|[CVE-2022-30129](https://nvd.nist.gov/vuln/detail/CVE-2022-30129) | CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H | 8.8 HIGH |
 
 and... m0r3 🤫 😉 😎
